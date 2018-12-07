@@ -1,8 +1,5 @@
-/*Roll no -2016BTECS00036
-NAME - Abhishek Ravindra Sapate
-Roll no- 2016BTEC00046
-NAME - Sourabh Anil Ghorpade
-Project Name-Student's Admission To Computer Science Course Degree */
+
+/*Project Name-Student's Admission To Computer Science Course Degree */
 
 #include<stdio.h>
 #include<stdlib.h>
